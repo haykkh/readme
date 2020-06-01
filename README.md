@@ -29,7 +29,7 @@ curl https://raw.githubusercontent.com/haykkh/readme/master/README.md -o README.
 
 [README.md](https://raw.githubusercontent.com/haykkh/readme/master/README.md)
 
-[master.zip](https://github.com/haykkh/readme/archive/master.zip)
+[readme-master.zip](https://github.com/haykkh/readme/archive/master.zip)
 
 ## 🚀 Usage
 
