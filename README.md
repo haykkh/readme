@@ -7,7 +7,7 @@
 
 _My_ readme boilerplate. ⚡
 
-![Screenshot](header.png)
+![Header](header.png)
 
 ## 📦 Installation
 
