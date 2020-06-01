@@ -7,6 +7,8 @@
 
 _My_ readme boilerplate. ⚡
 
+![Screenshot](header.png)
+
 ## 📦 Installation
 
 ### 📋 Clone repo
